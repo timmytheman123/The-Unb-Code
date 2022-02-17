@@ -1,0 +1,1 @@
+`javascript:var frame = document.createElement('iframe'); frame.src="https://sites.google.com/nbasd.org/unblocked-game-websites/home"; frame.style.position="fixed"; frame.style.top="5%"; frame.style.right="0%";frame.style.height="300px";frame.style.width="315px"; frame.style.zIndex="100000"; document.body.appendChild(frame);`
