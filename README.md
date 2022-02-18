@@ -8,4 +8,3 @@ To use:
 some problems that may happen 
 * if you cannot see bookmarks press crl shift b
 * make sure that you open it on a site like schoology because some websites dont work with it
-* do not refresh or the page will revert
